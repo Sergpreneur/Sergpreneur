@@ -2,6 +2,10 @@
 
 Quantitative Researcher | Systematic Trading | Time Series & Risk Modeling
 
+Moscow State University Mathematics (top 50 Mathematics in the world, top 1 in Russia)
+
+School of Quants of Moscow State University (best programm for quants in Russia)
+
 I work on honest, leakage-safe quantitative research and focus on understanding why trading strategies fail once realistic constraints, validation rigor, and risk asymmetries are applied.
 
 My work sits at the intersection of:
