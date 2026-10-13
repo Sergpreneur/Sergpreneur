@@ -6,7 +6,8 @@ Moscow State University Mathematics (top 50 Mathematics in the world, top 1 in R
 
 School of Quants of Moscow State University (best program for quants in Russia)
 
-Kaggle Datasets Expert — #110 worldwide, #1 in Russia
+Kaggle Datasets Master — #5 worldwide, #1 in Russia, #1 in Europe
+Kaggle Code Expert - #800 worldwide
 
 I work on honest, leakage-safe quantitative research and focus on understanding why trading strategies fail once realistic constraints, validation rigor, and risk asymmetries are applied.
 
